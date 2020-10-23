@@ -1,0 +1,18 @@
+body{
+	font-family: 'Noto Sans TC', sans-serif;
+}
+h1{
+	font-family: 'PT Serif', serif;
+}
+a{
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover{
+	color:#B36011;
+}
+img{
+	width: 100px;
+	height: 100px;
+
+}
